@@ -41,5 +41,11 @@ ehthumbs.db
 Thumbs.db
 
 *.mat
-
-
+*.fbx
+*.prefab
+*.exr
+*.pdf
+*.txt
+*.json
+*.png
+*.log
