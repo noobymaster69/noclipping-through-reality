@@ -49,3 +49,6 @@ Thumbs.db
 *.json
 *.png
 *.log
+*.inputactions
+*.shadergraph
+*.config
